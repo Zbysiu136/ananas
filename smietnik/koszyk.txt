@@ -1,1 +1,2 @@
 to jest koszyk
+a tu linhia nowa tekstu
